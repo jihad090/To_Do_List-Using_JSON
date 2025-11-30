@@ -19,9 +19,7 @@ bun dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## UI Design
-<img src="/todo-json-app/public/landingPage.png" alt="Project Landing Page" width="300" />
-
-
+<img src="./public/landingPage.png" alt="Project Landing Page" width="300" />
 
 ## More About it
 
